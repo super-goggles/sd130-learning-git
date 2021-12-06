@@ -1,11 +1,25 @@
 # sd130-learning-git
 
-just testing some git stuff
+## What is a sensible commit?
 
-add something to the README.md file
+- changes in commits should logically go together
+- commits should be small
+- commit early and often
 
-here's another change
+## Example Commits for SD120 Budget Calculator
 
-another after adding credential.helper
+- initial commit
+  includes all the provided files
+- stub transaction list classes
+- implement incomeList method
+- implement addNewTransaction method
+- create budget tracker app ** very bad!! **
 
-another change after deleting PAT (Personal Access Token)
+- implement income render method
+- implement expense render method
+- handle click events
+
+If I apply this commit it will ....
+
+- fix click handler bug
+- correct spelling on homepage
